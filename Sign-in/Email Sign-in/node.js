@@ -1,4 +1,5 @@
- // Your web app's Firebase configuration
+
+  // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
   const firebaseConfig = {
     apiKey: "AIzaSyAxGOKyUhXDrNs54bGMN0waCFOGLnBl68Q",
@@ -53,3 +54,4 @@
       alert("No Active user Found")
     }
   })
+  
